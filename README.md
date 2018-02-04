@@ -19,3 +19,5 @@
 >>> (c) Select the method for the four corner points: 1.precise corner points or 2.detected corner points
 
 >>> (d) The program will show the result image
+
+>>> ![1_precise_points](https://user-images.githubusercontent.com/28382639/35773301-8ed7f45a-0902-11e8-83c6-e16ac87947fa.jpg)
